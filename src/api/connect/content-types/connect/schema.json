@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "connects",
+  "info": {
+    "singularName": "connect",
+    "pluralName": "connects",
+    "displayName": "connect"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "City": {
+      "type": "enumeration",
+      "enum": [
+        "Surat",
+        "Ahmedabad",
+        "Anand",
+        "Nadiad",
+        "Vadodara"
+      ]
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
