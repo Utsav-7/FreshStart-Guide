@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mentors",
+  "info": {
+    "singularName": "mentor",
+    "pluralName": "mentors",
+    "displayName": "Mentor",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Expertise": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    },
+    "Position": {
+      "type": "enumeration",
+      "enum": [
+        "Faculty",
+        "Student"
+      ]
+    }
+  }
+}

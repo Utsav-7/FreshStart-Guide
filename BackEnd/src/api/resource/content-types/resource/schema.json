@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resources",
+  "info": {
+    "singularName": "resource",
+    "pluralName": "resources",
+    "displayName": "Resource",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Department": {
+      "type": "enumeration",
+      "enum": [
+        "CSE",
+        "CE",
+        "IT"
+      ],
+      "required": true
+    },
+    "Semester": {
+      "type": "enumeration",
+      "enum": [
+        "SEM 1",
+        "SEM 2",
+        "SEM 3",
+        "SEM 4",
+        "SEM 5",
+        "SEM 6",
+        "SEM 7",
+        "SEM 8"
+      ],
+      "required": true
+    },
+    "Subject": {
+      "type": "string",
+      "required": true
+    },
+    "File": {
+      "allowedTypes": [
+        "files"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
