@@ -1,0 +1,28 @@
+.table-container {
+    margin-top: 5%;
+    padding: 20px;
+    min-width: 80%;
+    backdrop-filter: blur(10px);
+    /* Adjust the blur amount as needed */
+    background-color: rgba(255, 255, 255, 0.5);
+    /* Adjust the background color and opacity */
+    border-radius: 10px;
+    /* Add rounded corners for a card-like effect */
+}
+
+.table-header {
+    background-color: #007bff;
+    /* Change this to your desired header background color */
+    color: #fff;
+    /* Change this to your desired header text color */
+}
+
+.table th,
+.table td {
+    /* vertical-align: middle; */
+    background-color: rgba(255, 255, 255, 0.5);
+    width:10px;
+    /* text-align: left !important; */
+    /* text-align: justify; */
+    /* align-items: left !important; */
+}

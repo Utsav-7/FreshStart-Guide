@@ -1,0 +1,61 @@
+/* ContactForm.css */
+.contact{
+margin: 0;
+  padding: 0;
+  width: 100%;
+  /* box-sizing: border-box; */
+  background: url("../../public/Frame\ 33690.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}  .container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form-label {
+    color: white;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #ff5733;
+    /* Change this color to your preferred highlight color */
+}
+
+.btn-danger {
+    background-color: #ff5733;
+    /* Change this color to your preferred button color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-danger:hover {
+    background-color: #ff2d00;
+    /* Change this color to your preferred button hover color */
+}
+
+/* You can add more styles as needed */

@@ -1,0 +1,73 @@
+/* ContactForm.css */
+
+.container {
+    margin-top: 100px;
+    /* text-align: center; */
+}
+.table-container{
+    margin:auto;
+    min-height: 600px;
+    max-width: 800px;
+}
+.title{
+    color: #7b78d3;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+
+    margin-bottom: 20px;
+}
+
+.form {
+    width: 300px !important;
+    text-align: left;
+    justify-content: left;
+    align-content: left;
+}
+
+.form-label {
+    color: white;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #ff5733;
+    /* Change this color to your preferred highlight color */
+}
+
+.btn-danger {
+    background-color: #ff5733;
+    /* Change this color to your preferred button color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-danger:hover {
+    background-color: #ff2d00;
+    /* Change this color to your preferred button hover color */
+}
+
+.table{
+    width:80% !important;
+    margin:auto !important;
+    border-collapse:collapse;
+    
+}
+td{
+    /* width: 50px !important; */
+    text-align: left;
+}
+
+
+/* You can add more styles as needed */

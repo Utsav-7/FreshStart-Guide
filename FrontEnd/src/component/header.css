@@ -1,0 +1,104 @@
+/* CSS for header */
+.header {
+    position: absolute
+    ;
+    width: 100%;
+    /* padding:auto; */
+margin-left: auto;
+margin-right: auto;
+  display: flex;
+  padding:10px;
+  justify-content: space-between;
+  align-items: center;
+  
+
+  background: rgba(217, 217, 217, 0.26);
+box-shadow: 0px 4px 39px 0px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(24px);
+}
+
+.header .logo {
+    width: 48px;
+height: 48px;
+flex-shrink: 0;
+    border-radius: 10px;
+    /* padding: auto; */
+    background: #42426A;
+    box-shadow: 0px 4px 26px 0px rgba(0, 0, 0, 0.25);
+}
+
+.nav-items {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 20px;
+}
+.nav-items a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.regi {
+    border-radius: 21px;
+    border: 2px solid #7C79D3;
+    background: #D9D9D9;
+   display:grid;
+   place-items: center;
+width: 92px;
+height: 33px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  /* padding: 35px 20px; */
+}
+.regi p{
+    color: #7C79D3;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 14px;
+font-style: normal;
+font-weight: 700;
+margin-left: 3px;
+margin-right: 3px;
+margin: 0 auto;
+position: fixed;
+line-height: normal;
+text-transform: capitalize;    
+}
+.corodiv img{
+    object-fit: contain;
+    float: right;
+    line-height:30px;
+    /* align-self: right; */
+    /* justify-self: end; */
+}
+.corodiv .corocontent{
+    width: 569px;
+    overflow: hidden;;
+}
+.logi{
+    border-radius: 21px;
+    width: 81px;
+height: 33px;
+display:grid;
+place-items: center;
+border: 2px solid #D9D9D9;
+background: #7C79D3;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.logi p{
+    color: #FFF;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 15px;
+font-style: normal;
+margin: 0 auto;
+margin-left: 3px ;
+margin-right: 3px;
+position: fixed;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}

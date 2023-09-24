@@ -1,0 +1,101 @@
+.modal-container {
+  background-color: rgba(255, 255, 255, 0.144); 
+ backdrop-filter: blur(50px);
+
+ border-radius: 10px;
+   padding: 20px;
+   margin:150px 200px 200px 200px;
+   box-shadow: 0 0 40px rgba(8,7,16,0.6);
+   border: 2px solid rgba(255,255,255,0.1);
+
+ }
+ 
+
+ /* Additional styles for form elements inside the modal */
+ .modal-container   form {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start ;
+    gap: 20px;
+   background-color: rgba(255, 255, 255, 0);
+flex:1;
+   
+   padding: 20px;
+   border-radius: 10px;
+   width: 600px !important; 
+   /* upar ni ek laine */
+   /* max-width: 600px; */
+   min-width: 600px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+
+ .group{
+   /* background-color: #3577c5; */
+   width: 100%;
+ }
+ 
+ .modal-container   form input {
+ 
+   height: 50px;
+   /* padding-left: ; */
+   /* width: 100% !important; */
+   background-color: rgba(255,255,255,0.07);
+   border-radius: 3px;
+   /* padding: 0 10px; */
+   margin-top: 8px;
+   min-width:100% !important;
+   font-size: 14px;
+   /* display: block; */
+   font-weight: 300;
+ }
+ .modal-container   form .field{
+   
+   width: 600px !important;
+ }
+ .modal-container   form .label{
+   
+   color:aliceblue
+ }
+ .modal-container   form input::placeholder {
+   color: rgba(255, 255, 255, 0.5);
+ }
+ .modal-container    form input:focus {
+   background-color: rgba(255,255,255,0.07);
+   border: 2px solid #7C79D3;
+   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+ }
+ .modal-container   form select{
+   /* background-color: red; */
+   background-color: rgba(255,255,255,0.07);
+   border-radius: 3px;
+ } 
+ .modal-container   form select:not(:focus){
+   color: rgba(255, 255, 255, 0.5);
+
+ }
+ .modal-container  form select:focus{
+   background-color: rgba(255,255,255,0.07);
+   border: 2px solid #7C79D3;
+   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+ }
+ /* .modal-container form select *{
+   background-color: rgba(255,255,255,0.07);
+   border: 2px solid #7C79D3;
+   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+ } */
+
+
+ 
+ .modal-content {
+   width: 600px;
+   overflow-y: auto;
+   padding: 20px;
+ }
+ .modal-content h2{
+   color: wheat;
+   text-align: center;
+ }
+/* CSS */
