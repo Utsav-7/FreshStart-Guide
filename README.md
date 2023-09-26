@@ -43,7 +43,7 @@ Step 2:
 
 ```
 This will make your backend run at **localhost:1337/**   
-> **Note:**
+> **Important:**
 
 > Through whole project wherever you see **10.200.55.189:1337** replace it with **localhost:1337**
 
