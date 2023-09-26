@@ -1,5 +1,4 @@
-
-## 👨‍💻Welcome
+## Welcome
 Hi 👋, We're Team ProSolvers,our team of few Tech enthusiast students
 - We done this project as part of hackathon organized by DAIICT named as Tic-Tech-Toe.
 
@@ -57,7 +56,7 @@ This will make your backend run at **localhost:1337/**
 ![ScholarShip](screenshot/fdfdcb6d-4141-4ddd-bcef-060dc8dc8980.webp)
 
 
-## Authors
+## Authors👨‍💻
 
 - Vishu Bhingradiya[@Vishu_github](https://github.com/Vishuvishu) | [@Vishu_LinkedIn](https://www.linkedin.com/in/vishu-kishorbhai-667668229) 
 - Utsav Kathrotiya [@Utsav_github](https://github.com/Utsav-7/) | [@Utsav_Linkedin](https://www.linkedin.com/in/utsav-katharotiya/) 
