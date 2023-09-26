@@ -1,6 +1,6 @@
 ## Welcome
-Hi 👋, We're Team ProSolvers,our team of few Tech enthusiast students
-- We done this project as part of hackathon organized by DAIICT named as Tic-Tech-Toe.
+Hi 👋, We're Team **ProSolvers** ,our team of few Tech enthusiast students
+- We done this project as part of hackathon organized by **DAIICT** named as **Tic-Tech-Toe.**
 
 ## Check Us out
 check our project at  
