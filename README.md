@@ -47,14 +47,10 @@ This will make your backend run at **localhost:1337/**
 
 > Through whole project wherever you see **10.200.55.189:1337** replace it with **localhost:1337**
 
----
-your web app for freshStart Guide is started
----
-
 
 ## Screenshots
 
-![Home Page](https://raw.githubusercontent.com/Utsav-7/FreshStart-Guide/main/screenshot/96f0af35-2385-4766-ba05-9c8e9610d732.webp)
+![Home Page](screenshot/96f0af35-2385-4766-ba05-9c8e9610d732.webp)
 
 
 ## Authors
