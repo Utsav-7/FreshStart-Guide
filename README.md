@@ -3,9 +3,11 @@
 Hi 👋, We're Team ProSolvers,our team of few Tech enthusiast students
 - We done this project as part of hackathon organized by DAIICT named as Tic-Tech-Toe.
 
-
+## Check Us out
+check our project at  
+Devfolio.co | https://devfolio.co/projects/freshstart-guide-1e4d  
+also don't forget to like our project
 ## Acknowledgements
-
  - We would like to extend our heartfelt thanks to this hackathon **Tic-Tech-Toe** and **DAIICT** to held such hackathon ,Their inputs have helped us to improve the project and make it more relevant to the needs of the freshers.
  - We as **Team ProSolver** are expressing our big thank you to all team who manages such event. We learned a lot with such event
 ## Title : FreshStart Guide
@@ -52,7 +54,7 @@ your web app for freshStart Guide is started
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Home Page](https://raw.githubusercontent.com/Utsav-7/FreshStart-Guide/main/screenshot/96f0af35-2385-4766-ba05-9c8e9610d732.webp)
 
 
 ## Authors
