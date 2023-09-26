@@ -51,6 +51,10 @@ This will make your backend run at **localhost:1337/**
 ## Screenshots
 
 ![Home Page](screenshot/96f0af35-2385-4766-ba05-9c8e9610d732.webp)
+![Resources](screenshot/78cc7235-e21b-4d1a-8c9b-1dfae8421662.webp)
+![Memories](screenshot/c2bd8e9b-e6da-4bb6-9770-17db30f5598c.webp)
+![mentors](screenshot/e35b8be2-9578-4aab-8bd9-c3049a687790.webp)
+![ScholarShip](screenshot/fdfdcb6d-4141-4ddd-bcef-060dc8dc8980.webp)
 
 
 ## Authors
